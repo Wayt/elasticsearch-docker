@@ -4,7 +4,7 @@ Originaly from https://github.com/pires/docker-elasticsearch-kubernetes
 
 Ready to use lean (210MB) Elasticsearch Docker image ready for using within a Kubernetes cluster.
 
-[![Docker Repository](https://hub.docker.com/r/maxwayt/elasticsearch-docker/ "Docker Repository ")](https://hub.docker.com/r/maxwayt/elasticsearch-docker/)
+[![Docker Repository](https://hub.docker.com/r/maxwayt/elasticsearch/ "Docker Repository ")](https://hub.docker.com/r/maxwayt/elasticsearch/)
 
 ## Current software
 
