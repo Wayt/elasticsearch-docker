@@ -9,7 +9,7 @@ Ready to use lean (210MB) Elasticsearch Docker image ready for using within a Ku
 ## Current software
 
 * Oracle JRE 8 Update 60
-* Elasticsearch 2.0.0
+* Elasticsearch 1.7.3
 * Kubernetes plug-in 1.3.0
 
 ## Pre-requisites
