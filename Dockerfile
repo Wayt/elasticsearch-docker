@@ -1,4 +1,4 @@
-FROM elasticsearch:latest
+FROM elasticsearch:2.0.0
 
 # Mainly from https://github.com/pires/docker-elasticsearch-kubernetes
 
